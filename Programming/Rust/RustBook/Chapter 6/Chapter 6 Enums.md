@@ -1,0 +1,50 @@
+---
+tags:
+  - Programming
+  - Rust
+---
+# Chapter 6.1, defining an enum
+## Properties of enums
+(its basically an attribute set from nix). This is good because it also allows for them to be of the same type, making it so that you don't need multiple functions.
+## The `Option` enum 
+The option enum is basically a null, w/o the pitfalls of it.
+
+# Chapter 6.2, `match` keyword
+## what it is
+think a coin sorting machine, first one that fits is what it is put into. Consider the Following:
+```rust
+enum Coin {
+    Penny,
+    Nickel,
+    Dime,
+    Quarter,
+}
+
+fn value_in_cents(coin: Coin) -> u8 {
+    match coin {
+        Coin::Penny => 1,
+        Coin::Nickel => 5,
+        Coin::Dime => 10,
+        Coin::Quarter => 25,
+    }
+}
+
+```
+notice the "=>" syntax, this defines the arm. arms can also be wrapped in curly braces, though this isn't done unless it returns more than one thing.
+## Patterns that bind to values
+consider the following, this is how enums can be bound to values:
+```rust
+#[derive(Debug)] // so we can inspect the state in a minute
+enum UsState {
+    Alabama,
+    Alaska,
+    // --snip--
+}
+
+enum Coin {
+    Penny,
+    Nickel,
+    Dime,
+    Quarter(UsState),
+}
+```
