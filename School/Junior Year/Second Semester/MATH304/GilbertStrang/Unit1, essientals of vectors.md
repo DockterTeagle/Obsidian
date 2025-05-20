@@ -2,4 +2,5 @@
 tags:
   - LinearAlgebra
 ---
-# Lecture 1
+# Lecture 1\: The geometry of Linear Equations
+
