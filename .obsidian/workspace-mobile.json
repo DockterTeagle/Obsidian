@@ -126,21 +126,6 @@
         }
       },
       {
-        "id": "e8980339bed0aea8",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
-        }
-      },
-      {
         "id": "ae183ac72678618f",
         "type": "leaf",
         "state": {
@@ -162,7 +147,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "701ead9ad4aca4ae",
