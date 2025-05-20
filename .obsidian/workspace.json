@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Junior Year/Second Semester/MATH304/GilbertStrang/Unit1, essientals of vectors.md",
+                "file": "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit1, essientals of vectors"
+              "title": "Unit 1, essentials of vectors"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Junior Year/Second Semester/MATH304/GilbertStrang/Unit1, essientals of vectors.md",
+                "file": "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unit1, essientals of vectors"
+              "title": "Backlinks for Unit 1, essentials of vectors"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Junior Year/Second Semester/MATH304/GilbertStrang/Unit1, essientals of vectors.md",
+                "file": "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unit1, essientals of vectors"
+              "title": "Outgoing links from Unit 1, essentials of vectors"
             }
           },
           {
@@ -190,11 +190,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7ae63fb8e2257a27",
+  "active": "a65e88bf575d60b3",
   "lastOpenFiles": [
+    "Linear Algebra",
     "Programming/Rust/RustBook/Chapter 6/Chapter 6 Enums.md",
-    "School/Junior Year/Second Semester/MATH304/GilbertStrang/Unit1, essientals of vectors.md",
-    "School/Junior Year/Second Semester/MATH304/GilbertStrang",
+    "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
+    "Linear Algebra/GilbertStrang",
     "School/Junior Year/Second Semester/MATH304",
     "School/Junior Year/Second Semester",
     "School/Junior Year",
