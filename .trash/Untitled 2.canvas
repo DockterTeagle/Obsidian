@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dc68b8eebeb6052d","x":-346,"y":-241,"width":250,"height":60,"type":"text","text":""},
+		{"id":"91bde28cae9a23e9","x":-200,"y":-140,"width":400,"height":400,"type":"file","file":"Programming/Rust/RustBook/Chapter 6/Chapter 6 Enums.md"}
+	],
+	"edges":[]
+}

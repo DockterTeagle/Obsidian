@@ -3,6 +3,7 @@ tags:
   - Programming
   - Rust
 ---
+
 # Chapter 6.1, defining an enum
 ## Properties of enums
 (its basically an attribute set from nix). This is good because it also allows for them to be of the same type, making it so that you don't need multiple functions.
@@ -48,3 +49,6 @@ enum Coin {
     Quarter(UsState),
 }
 ```
+
+In the preceding example the `Quarter(UsState)` part says that t he `Quarter` field contains additional info in the form of `UsState`
+## matching with `Option <T>`
