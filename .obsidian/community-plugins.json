@@ -3,5 +3,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-discordrpc",
   "obsidian-quiet-outline",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-tikzjax",
+  "mathlinks",
+  "dataview"
 ]
