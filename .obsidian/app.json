@@ -2,5 +2,7 @@
   "promptDelete": false,
   "vimMode": true,
   "trashOption": "local",
-  "useTab": false
+  "useTab": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true
 }

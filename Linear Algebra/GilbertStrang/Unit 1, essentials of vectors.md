@@ -1,10 +1,10 @@
 ---
-tags:
-  - LinearAlgebra
+tags: [LinearAlgebra]
 ---
-# Lecture 1\: The geometry of Linear Equations
 
-## Different interpretations of linear equations
+# Lecture 1\: The Geometry of Linear Equations
+
+## Different Interpretations of Linear Equations
 The system of equations
 $$
 \begin{align}
@@ -29,8 +29,10 @@ y
 $$
 ### The Row Picture
 one possible interpretation of this is to think of it in rows. or the intersection of two lines, the "answer" to the problem is the intersection of these lines
-```tikz
-```
 
 
 ### The Column Picture
+another way to think about this is to think of the x vector and the y vector as separate, and we need to find the linear combination that gives the out vector
+
+### The Matrix Form
+The "correct" way to think about it, also shorter
