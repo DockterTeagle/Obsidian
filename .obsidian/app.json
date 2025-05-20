@@ -1,5 +1,3 @@
 {
-  "vimMode": true,
-  "alwaysUpdateLinks": false,
-  "trashOption": "local"
+  "promptDelete": false
 }

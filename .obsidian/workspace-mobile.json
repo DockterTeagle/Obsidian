@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "705d9c184c9200c0",
+        "id": "268cebd253eca549",
         "type": "tabs",
         "children": [
           {
-            "id": "6abbf76b00a6fa9e",
+            "id": "701ead9ad4aca4ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Rust/RustBook/Chapter 6/Drawing 2025-05-20 15.06.45.excalidraw.md"
+                "file": "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-20 15.06.45.excalidraw"
+              "icon": "lucide-file",
+              "title": "6.1 Defining an enum"
             }
           }
         ]
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,10 +165,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6abbf76b00a6fa9e",
+  "active": "701ead9ad4aca4ae",
   "lastOpenFiles": [
-    "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
     "Programming/Rust/RustBook/Chapter 6/Drawing 2025-05-20 15.06.45.excalidraw.md",
+    "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
+    "Programming/Rust/RustBook/Chapter 6/Drawing 2025-05-20 15.16.11.excalidraw.md",
     "Untitled.canvas",
     "Programming/Rust/RustBook/Chapter 6",
     "Programming/Rust/RustBook",
