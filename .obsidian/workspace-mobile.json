@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Rust/RustBook/Chapter 6/Chapter 6 Enums.md",
+                "file": "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 Enums"
+              "title": "Unit 1, essentials of vectors"
             }
           }
         ]
@@ -153,8 +153,17 @@
   },
   "active": "701ead9ad4aca4ae",
   "lastOpenFiles": [
-    "2025-05-20.md",
+    "Linear Algebra/GilbertStrang/Drawing 2025-05-20 17.00.28.excalidraw.md",
+    "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
+    "Linear Algebra/GilbertStrang/1 -1.jpg",
+    "Linear Algebra/GilbertStrang/1 -2.jpg",
     "Programming/Rust/RustBook/Chapter 6/Chapter 6 Enums.md",
+    "Linear Algebra/GilbertStrang",
+    "Linear Algebra",
+    "/Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
+    "/Linear Algebra/GilbertStrang",
+    "/Linear Algebra",
+    "2025-05-20.md",
     "Untitled 1",
     "School",
     "Untitled.md",
@@ -166,10 +175,6 @@
     "/Programming",
     "Programming/Rust/RustBook/Chapter 6/Drawing 2025-05-20 15.06.45.excalidraw.md",
     "Programming/Rust/RustBook/Chapter 6/Drawing 2025-05-20 15.16.11.excalidraw.md",
-    "Untitled.canvas",
-    "Programming/Rust/RustBook/Chapter 6",
-    "Programming/Rust/RustBook",
-    "Programming/Rust",
-    "Programming"
+    "Untitled.canvas"
   ]
 }
