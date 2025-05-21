@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
+                "file": "Linear Algebra/GilbertStrang/Unit 1. essentials of vectors and matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1, essentials of vectors"
+              "title": "Unit 1. essentials of vectors and matrices"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LinearAlgebra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
+                "file": "Linear Algebra/GilbertStrang/Unit 1. essentials of vectors and matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unit 1, essentials of vectors"
+              "title": "Outgoing links from Unit 1. essentials of vectors and matrices"
             }
           },
           {
@@ -190,10 +190,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a65e88bf575d60b3",
+  "active": "7ae63fb8e2257a27",
   "lastOpenFiles": [
     "Programming/Rust/RustBook/Chapter 6/Chapter 6 Enums.md",
-    "Linear Algebra/GilbertStrang/Unit 1, essentials of vectors.md",
+    "Linear Algebra/GilbertStrang/Unit 1. essentials of vectors and matrices.md",
     "Linear Algebra/GilbertStrang/1 -2.jpg",
     "Linear Algebra/GilbertStrang/1 -1.jpg",
     "Linear Algebra",
