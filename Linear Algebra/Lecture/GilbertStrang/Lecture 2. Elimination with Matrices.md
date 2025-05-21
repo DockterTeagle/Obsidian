@@ -1,5 +1,9 @@
 ---
-tags: [LinearAlgebra/pivots]
+tags:
+  - LinearAlgebra/pivots
+Completed: false
+created: 2025-05-20T21:05
+updated: 2025-05-20T22:37
 ---
 
 # Lecture 2. Elimination with Matrices
@@ -59,3 +63,5 @@ $$
 0&0&5&10
 }
 $$
+### Elimination Matrices
+recall that multiplying a matrix by vector is a combination of the columns of the matrix.

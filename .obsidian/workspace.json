@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Lecture/GilbertStrang/Lecture 2. Elimination with Matrices.md",
+                "file": "Linear Algebra/Lecture/GilbertStrang/Lecture 1. The Geometry of Linear Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2. Elimination with Matrices"
+              "title": "Lecture 1. The Geometry of Linear Equations"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:LinearAlgebra/vizualizingMatrices",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,18 +189,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a19eb6326c8a5035",
+  "active": "7ae63fb8e2257a27",
   "lastOpenFiles": [
+    "Linear Algebra/Definitions/Pivot.md",
     "Linear Algebra/Definitions/Augmented Matrix.md",
-    "augmentedmatrix.md",
-    "Linear Algebra/Lecture/GilbertStrang/Lecture 2. Elimination with Matrices.md",
-    "Templates",
     "Linear Algebra/Definitions/Definitions.md",
+    "Linear Algebra/Lecture/GilbertStrang/Lecture 2. Elimination with Matrices.md",
     "Linear Algebra/Lecture/GilbertStrang/Unit 1.  Essentials of vectors and matrices.md",
+    "Linear Algebra/Lecture/GilbertStrang/Lecture 1. The Geometry of Linear Equations.md",
+    "augmentedmatrix.md",
+    "Templates",
     "preamble.sty~",
     "preamble.sty",
-    "Linear Algebra/Definitions/Pivot.md",
-    "Linear Algebra/Lecture/GilbertStrang/Lecture 1. The Geometry of Linear Equations.md",
     "Linear Algebra/Lecture",
     "Linear Algebra/Definitions",
     "Untitled.canvas",

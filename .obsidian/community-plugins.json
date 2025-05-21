@@ -9,5 +9,6 @@
   "dataview",
   "obsidian-linter",
   "note-refactor-obsidian",
-  "obsidian-latex"
+  "obsidian-latex",
+  "update-time-on-edit"
 ]

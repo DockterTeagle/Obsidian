@@ -1,6 +1,12 @@
+---
+tags:
+  - LinearAlgebra/vizualizingMatrices
+updated: 2025-05-20T22:37
+created: 2025-05-20T21:03
+---
+
 # Lecture 1. The Geometry of Linear Equations
 
-#LinearAlgebra/vizualizingMatrices
 ## Different Interpretations of Linear Equations
 The system of equations
 $$
@@ -29,7 +35,6 @@ one possible interpretation of this is to think of it in rows. or the intersecti
 
 ### The Column Picture
 another way to think about this is to think of the x vector and the y vector as separate, and we need to find the linear combination that gives the out vector. gets better as $n$ increases.\
-#LinearAlgebra/vizualizingMatrices/columnPicture
 
 ### The Matrix Form
 The "correct" way to think about it, also shorter

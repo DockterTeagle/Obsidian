@@ -1,0 +1,17 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Linear Algebra/Lecture/GilbertStrang/Lecture 2. Elimination with Matrices.md": "2ad31780d2682730df3ecef78d0a4aa10a98480c20eebf4f2047deb94202686f",
+    "Linear Algebra/Lecture/GilbertStrang/Lecture 1. The Geometry of Linear Equations.md": "cbb520f3cd1a9cf63541b5d08099aa5e24c71dc3412bb05dc0398d661ae48d5d",
+    "Linear Algebra/Definitions/Augmented Matrix.md": "10b74b2917d6ce637594a633df31498e0ffc4871fcf6a2de9f0f8c7b69c4ef80",
+    "Linear Algebra/Lecture/GilbertStrang/Unit 1.  Essentials of vectors and matrices.md": "50fe9d86e39cd87723589b7dfd4204ac044edf0539d959c1dfbd7045353739df",
+    "Linear Algebra/Definitions/Definitions.md": "2280132405fe8d58d7bf18e5ae62ccfc61e24908aa86b71d7f3db29edf1aca42"
+  }
+}
