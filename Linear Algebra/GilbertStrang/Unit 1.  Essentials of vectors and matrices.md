@@ -4,6 +4,7 @@ tags: [LinearAlgebra]
 
 # Lecture 1: The Geometry of Linear Equations
 
+#LinearAlgebra/vizualizingMatrices
 ## Different Interpretations of Linear Equations
 The system of equations
 $$
@@ -30,9 +31,9 @@ $$
 ### The Row Picture
 one possible interpretation of this is to think of it in rows. or the intersection of two lines, the "answer" to the problem is the intersection of these lines
 
-
 ### The Column Picture
-another way to think about this is to think of the x vector and the y vector as separate, and we need to find the linear combination that gives the out vector. gets better as $n$ increases.
+another way to think about this is to think of the x vector and the y vector as separate, and we need to find the linear combination that gives the out vector. gets better as $n$ increases.\
+#LinearAlgebra/vizualizingMatrices/columnPicture
 
 ### The Matrix Form
 The "correct" way to think about it, also shorter
@@ -74,3 +75,40 @@ do the linear combinations of the columns fill three dimensional space
 
 # Lecture 2: Elimination with Matrices
 ## Outline
+- learning matrix operations
+    - multiplication
+    - addition
+    - elimination
+    - switcheroo\
+$Ax = b$ for
+$$
+A = \begin{bmatrix}
+1&2&1\\
+3&8&2\\
+0&4&1
+\end{bmatrix}
+$$
+$$
+b = \begin{bmatrix}
+2\\12\\2
+\end{bmatrix}
+$$
+
+$$
+x = \begin{bmatrix}
+x\\ y \\z
+\end{bmatrix}
+$$
+## Elimination
+The purpose is to make a [[Pivot]] #LinearAlgebra/pivots
+$$
+A = \begin{bmatrix}
+1&2&1\\0&2&-2\\0&4&1
+\end{bmatrix}  \implies \begin{bmatrix}
+1&2&1\\0&2&-2\\0&0&5
+\end{bmatrix}
+$$
+### When Can it Fail
+0 in the pivot position and no row exchanges possible
+### Back Substitution
+bring in RHS as an extra column

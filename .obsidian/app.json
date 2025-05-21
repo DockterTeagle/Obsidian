@@ -4,5 +4,6 @@
   "trashOption": "local",
   "useTab": false,
   "strictLineBreaks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }
