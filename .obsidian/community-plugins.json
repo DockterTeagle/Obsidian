@@ -7,5 +7,7 @@
   "obsidian-tikzjax",
   "mathlinks",
   "dataview",
-  "obsidian-linter"
+  "obsidian-linter",
+  "note-refactor-obsidian",
+  "obsidian-latex"
 ]
