@@ -2,7 +2,7 @@
 tags: [LinearAlgebra]
 ---
 
-# Lecture 1\: The Geometry of Linear Equations
+# Lecture 1: The Geometry of Linear Equations
 
 ## Different Interpretations of Linear Equations
 The system of equations
@@ -45,13 +45,14 @@ A = \begin{bmatrix}
 -1&2&-1\\
 0&-3&4
 \end{bmatrix} 
-$$$$
+$$
+$$
 b = \begin{bmatrix}\
 0\\-1\\-4\
 \end{bmatrix}
 $$
-### The Row Picture:
-hard to picture, intersection of three,3d planes
+### The Row Picture
+hard to picture
 ### The Column Picture
 $$
 
@@ -65,10 +66,11 @@ x \begin{bmatrix}\
 0\\-1\\4\
 \end{bmatrix}
 $$
-can I solve $Ax=b$ for every rhs
+can I solve $Ax=b$ for every rhs\
 do the linear combinations of the columns fill three dimensional space
 ### When it Goes Wrong
 - over-specified
 - the three columns lie in the same plane(linear independence)
-## $n=9$ Example
-can we always do it? no it depends
+
+# Lecture 2: Elimination with Matrices
+## Outline
