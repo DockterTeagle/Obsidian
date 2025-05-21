@@ -50,3 +50,12 @@ x+2y+z&=2\\
 5z&=10
 \end{align}
 $$
+
+or in Augmented Matrix form it is the following
+$$
+\augmentedmatrix{ccc|c}{
+1&2&1&2\\
+0&2&-2&6\\
+0&0&5&10
+}
+$$

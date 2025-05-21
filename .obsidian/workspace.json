@@ -35,8 +35,7 @@
               "title": "Augmented Matrix"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,12 +189,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4bd71ada98188a02",
+  "active": "a19eb6326c8a5035",
   "lastOpenFiles": [
-    "Linear Algebra/Definitions/Definitions.md",
-    "Linear Algebra/Lecture/GilbertStrang/Lecture 2. Elimination with Matrices.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit 1.  Essentials of vectors and matrices.md",
     "Linear Algebra/Definitions/Augmented Matrix.md",
+    "augmentedmatrix.md",
+    "Linear Algebra/Lecture/GilbertStrang/Lecture 2. Elimination with Matrices.md",
+    "Templates",
+    "Linear Algebra/Definitions/Definitions.md",
+    "Linear Algebra/Lecture/GilbertStrang/Unit 1.  Essentials of vectors and matrices.md",
     "preamble.sty~",
     "preamble.sty",
     "Linear Algebra/Definitions/Pivot.md",
@@ -211,7 +212,6 @@
     "School/Junior Year/Second Semester/MATH304",
     "School/Junior Year/Second Semester",
     "School/Junior Year",
-    "School",
     "conflict-files-obsidian-git.md",
     "Programming/Rust/RustBook/Chapter 6/6.1 Defining an enum.md",
     "Programming/Rust/RustBook/Chapter 6/Drawing 2025-05-20 15.06.45.excalidraw.md",
