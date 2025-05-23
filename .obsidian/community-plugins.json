@@ -10,5 +10,8 @@
   "obsidian-linter",
   "note-refactor-obsidian",
   "obsidian-latex",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "table-editor-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-advanced-uri"
 ]

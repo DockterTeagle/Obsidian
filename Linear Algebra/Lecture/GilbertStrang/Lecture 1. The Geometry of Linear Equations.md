@@ -1,8 +1,9 @@
 ---
+id: Lecture 1. The Geometry of Linear Equations
 tags:
-  - LinearAlgebra/vizualizingMatrices
-updated: 2025-05-20T22:37
+  - LinearAlgebra
 created: 2025-05-20T21:03
+updated: 2025-05-22T22:44
 ---
 
 # Lecture 1. The Geometry of Linear Equations
@@ -68,9 +69,9 @@ x \begin{bmatrix}\
 0\\-1\\4\
 \end{bmatrix}
 $$
-can I solve $Ax=b$ for every rhs\
-do the linear combinations of the columns fill three dimensional space
+can I solve $Ax=b$ for every rhs?\
+do the linear combinations of the columns fill three dimensional space?
 ### When it Goes Wrong
 - over-specified
-- the three columns lie in the same plane(linear independence)
+- the three columns lie in the same plane and do not possess [[Linear Independence]]
 

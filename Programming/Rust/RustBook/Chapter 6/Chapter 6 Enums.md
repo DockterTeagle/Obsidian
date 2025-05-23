@@ -1,5 +1,11 @@
 ---
-tags: [Programming, Rust]
+id: Chapter 6 Enums
+aliases: []
+tags:
+  - Programming
+  - Rust
+created: 2025-05-21T10:11
+updated: 2025-05-22T22:44
 ---
 
 # Chapter 6.1, Defining an Enum
