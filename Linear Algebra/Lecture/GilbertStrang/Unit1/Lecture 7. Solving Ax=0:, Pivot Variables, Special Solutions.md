@@ -1,6 +1,7 @@
 ---
 id: Lecture 7. Solving Ax=0:, Pivot Variables, Special Solutions
-aliases: []
+aliases:
+  - Lecture7
 tags: []
 created: 2025-05-23T00:00
 updated: 2025-05-23T01:31

@@ -2,7 +2,7 @@
 tags:
   - LinearAlgebra
 created: 2025-05-20T20:21
-updated: 2025-05-22T22:44
+updated: 2025-05-23T08:30
 ---
 
 # Definitions
