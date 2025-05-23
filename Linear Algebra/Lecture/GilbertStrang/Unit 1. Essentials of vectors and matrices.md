@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-20T16:43
-updated: 2025-05-22T22:44
+updated: 2025-05-23T01:32
 ---
 
 # Unit 1. Essentials of Vectors and Matrices

@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-22T19:20
-updated: 2025-05-22T22:12
+updated: 2025-05-22T22:46
 ---
 
 # Lecture 5. Transposes, Permutations, Spaces $R^n$
@@ -45,4 +45,4 @@ A^T = A
 $$
 If a matrix is rectangular, it multiplied by its transpose is symmetric.
 
-## Chapter 3, [[1747970035-CTCE|Vector Spaces]], and [[1747970742-TBNT|Subspaces]]
+## Chapter 3: [[1747970035-CTCE|Vector Spaces]], and [[1747970742-TBNT|Subspaces]]

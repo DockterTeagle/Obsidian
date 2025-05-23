@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-21T14:36
-updated: 2025-05-22T22:44
+updated: 2025-05-22T22:45
 ---
 
 # Lecture 3. Multiplication and Inverse Matrices

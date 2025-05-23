@@ -5,7 +5,7 @@ tags:
   - LinearAlgebra
 Completed: false
 created: 2025-05-20T21:05
-updated: 2025-05-22T22:44
+updated: 2025-05-22T22:45
 ---
 
 # Lecture 2. Elimination with Matrices

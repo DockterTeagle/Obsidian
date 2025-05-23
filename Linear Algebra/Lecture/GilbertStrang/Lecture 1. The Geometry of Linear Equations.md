@@ -3,7 +3,7 @@ id: Lecture 1. The Geometry of Linear Equations
 tags:
   - LinearAlgebra
 created: 2025-05-20T21:03
-updated: 2025-05-22T22:44
+updated: 2025-05-22T22:45
 ---
 
 # Lecture 1. The Geometry of Linear Equations

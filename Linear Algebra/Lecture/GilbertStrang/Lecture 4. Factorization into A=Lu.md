@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-22T15:51
-updated: 2025-05-22T19:21
+updated: 2025-05-22T22:45
 ---
 
 # Lecture 4. Factorization into A=LU
