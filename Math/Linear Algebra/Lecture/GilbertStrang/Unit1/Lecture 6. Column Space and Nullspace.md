@@ -5,7 +5,7 @@ aliases:
 tags:
   - LinearAlgebra
 created: 2025-05-22T23:17
-updated: 2025-05-23T00:01
+updated: 2025-05-23T11:11
 ---
 
 # Lecture 6. [[1747973252-MXDM|Column Space]] and the [[1747973591-KXBY|Nullspace]]

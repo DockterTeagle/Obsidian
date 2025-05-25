@@ -6,7 +6,7 @@ tags: []
 created: 2025-05-23T01:30
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T01:41
+updated: 2025-05-23T11:11
 ---
 
 # Lecture 8. Solving Ax=b, RREF
@@ -40,11 +40,11 @@ $$
 0&0&0&0&b_3-b_2-b_1
 \end{bmatrix}
 $$
-### Conditions on b
+### Conditions on B
 $Ax=b$ solvable when:
 - b is in the [[1747973252-MXDM|Column Space]] 
 - If a combination of A gives the zero row, and the same combination of the rows of b must give 0
-### The sequence of steps to find the complete solution to $Ax=b$.
+### The Sequence of Steps to Find the Complete Solution to $Ax=b$
 
 1. $x_{particular}$ set all free variables to 0. Then solve $Ax=b$ for pivot variables.
   - $x_{particular} = (-2,0,\frac{3}{2},0)^T$
@@ -52,15 +52,15 @@ $Ax=b$ solvable when:
 3. $x = x_p + x_n$
   - This works because anything in the null space equals 0
   - cannot multiply $x_p$ by a constant.
-## Thinking bigger
-m by n matrix of [[1747979257-UGAD|rank]] r
+## Thinking Bigger
+m by n matrix of [[1747979257-UGAD|rank]] r\
 Always $ r\le m$ $r \le n$
-### Full Column rank r=n
-no free variables so no [[1747973591-KXBY|Nullspace]]
-Solution is therefore just $x_p$ if it exists.
+### Full Column Rank r=n
+no free variables so no [[1747973591-KXBY|Nullspace]]\
+Solution is therefore just $x_p$ if it exists.\
 It is very possible to have no solution
 ### Full Row Rank r=m
 Always solvable, null space will exist.
-### Full rank r=m=n
-Always square and invertible.
+### Full Rank r=m=n
+Always square and invertible.\
 RREF = I
