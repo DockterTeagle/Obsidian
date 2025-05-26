@@ -1,5 +1,5 @@
 ---
-id: Lecture 6. Column Space and Nullspace
+id: Lecture 6. Column Space and Null space
 aliases:
   - Lec6
 tags:

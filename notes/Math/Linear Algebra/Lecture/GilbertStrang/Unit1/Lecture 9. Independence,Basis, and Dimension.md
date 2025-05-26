@@ -1,5 +1,5 @@
 ---
-id: Lecture 9. Independence,Basis, and Dimension
+id: Lecture 9. Independence, Basis, and Dimension
 aliases:
   - Lecture 9
 tags: []

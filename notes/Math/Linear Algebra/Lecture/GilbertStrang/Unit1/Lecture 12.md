@@ -73,5 +73,16 @@ This is the [[1748016127-PSFJ|Left Null-space]] from the [[1748015998-UUDH|Four 
 
 ##### Interpretation
 
- These are currents along the edges. What connects\
+ These are the currents along the edges. What connects\
 $A$ and $A^T$ is [[1748116141-ENQO|Ohms Law]]
+
+#### Row space of A
+
+The [[1747979257-UGAD|rank]] is 3. The columns are 1,2,4. Correspond to edges, \
+has no loop. A graph without a loop is called a [[1748289676-FUDJ|Tree]]
+
+#### $dim N(A^T) = m-r$
+
+$ \# loops = \# edges - (\# nodes -1)$
+$ \# nodes - \# edges + \# loops = 1$
+The above is known as [[1748289883-WYLT|Eulers formula]]
