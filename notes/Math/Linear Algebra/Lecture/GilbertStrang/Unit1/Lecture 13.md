@@ -7,7 +7,7 @@ tags:
 created: 2025-05-26T15:10
 topic: Linear Algebra
 type: Review
-updated: 2025-05-26T17:58
+updated: 2025-05-27T14:57
 ---
 
 # Lecture 13. Quiz 1 Review
