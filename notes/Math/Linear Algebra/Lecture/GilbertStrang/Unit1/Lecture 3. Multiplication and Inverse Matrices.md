@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-21T14:36
-updated: 2025-05-22T22:45
+updated: 2025-05-30T11:23
 ---
 
 # Lecture 3. Multiplication and Inverse Matrices
@@ -55,7 +55,7 @@ $$
 \end{bmatrix} 
 $$
 
-This matrix is special, the [[1747945187-ZLGB|Row Space]] is a straight line, as is the [[1747945210-JRJE|Column Space]]
+This matrix is special, the [[Row Space|Row Space]] is a straight line, as is the [[1747945210-JRJE|Column Space]]
 ### Way 5
 Block Multiplication, just splitting the matrix into many matrices, A1B1 + A2B3.
 ## Inverses (Square case)

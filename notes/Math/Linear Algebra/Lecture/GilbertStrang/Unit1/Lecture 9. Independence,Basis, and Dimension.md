@@ -6,7 +6,7 @@ tags: []
 created: 2025-05-23T09:08
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T11:11
+updated: 2025-05-30T11:27
 ---
 
 # Lecture 9
@@ -15,7 +15,7 @@ updated: 2025-05-23T11:11
 
 - [[Linear Independence]]
 - Spanning a space
-- [[1748009165-LOPD|Basis]] and [[1747975249-HJWW|Dimension]]
+- [[Basis|Basis]] and [[Dimension|Dimension]]
 
 ## Introduction
 
@@ -26,11 +26,11 @@ Reason is that there will be free variables.
 
 ## What Does [[1747855267-UPFC|Linear Independence]] Mean?
 
-## [[1747974483-BJRX|Span]]
+## [[Span|Span]]
 
-## [[1748009165-LOPD|Basis]]
+## [[Basis|Basis]]
 
-## [[1747975249-HJWW|Dimension]]
+## [[Dimension|Dimension]]
 
 ## Example
 
@@ -47,11 +47,11 @@ $$
 -1\\-1\\1\\0
 \end{bmatrix}
 $$
-Note $\text{N(A)}$ is notation for the [[1747973591-KXBY|Nullspace]]\
-the [[1747979257-UGAD|rank]] of the given matrix is 2
+Note $\text{N(A)}$ is notation for the [[Null space|Nullspace]]\
+the [[Rank|rank]] of the given matrix is 2
 
 ### Theorems
 
-- [[1747979257-UGAD|rank]](A)= # of [[Pivot]] columns = [[1747975249-HJWW|dimension]]\
+- [[Rank|rank]](A)= # of [[Pivot]] columns = [[Dimension|dimension]]\
 of the column space.
 - $\text{dim} N(A)$

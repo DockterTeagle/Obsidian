@@ -7,7 +7,7 @@ tags: []
 created: 2025-05-23T09:16
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T10:55
+updated: 2025-05-30T11:24
 ---
 
 # Linear Independence
@@ -18,7 +18,7 @@ Linear Independence is at the heart of Linear Algebra, it defines when vectors a
 
 ## Definition
 
-Vectors are independent when no [[1747970140-OUWU|Linear Combination]] gives the zero vector, except the 0 combination. Otherwise, dependent.
+Vectors are independent when no [[Linear Combinations|Linear Combination]] gives the zero vector, except the 0 combination. Otherwise, dependent.
 $$
 c_1x_1+c_2x_2+ ... = 0
 $$

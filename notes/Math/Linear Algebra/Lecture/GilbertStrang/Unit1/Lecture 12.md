@@ -7,7 +7,7 @@ tags:
 created: 2025-05-23T21:21
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T21:23
+updated: 2025-05-30T11:28
 ---
 # Lecture 12
 
@@ -24,7 +24,7 @@ updated: 2025-05-23T21:23
 - Nodes
 - Edges
 
-### [[1748053812-CLWS|Incidence matrix]]
+### [[Incidence Matrix|Incidence matrix]]
 
 $$
 A =
@@ -37,10 +37,10 @@ A =
 \end{bmatrix}
 $$
 
-Edges 1,2,3 make a [[1748114968-AFHN|Loop]]
+Edges 1,2,3 make a [[Loop|Loop]]
 Real matrices have a structure.
 
-#### [[1747973591-KXBY|Null space]]
+#### [[Null space|Null space]]
 
 Asking if the columns are independent.
 
@@ -50,7 +50,7 @@ $dim(N(A)) = 1$
 
 ##### Interpretation
 
-- This is [[1748115439-YAJU|electric potential]] or voltage.
+- This is [[Electric Potential|electric potential]] or voltage.
 - Only possible to interpret up to a constant, difference only matters.
 
 #### Rank
@@ -68,21 +68,21 @@ A^T = \begin{bmatrix}
 \end{bmatrix}
 $
 
-This is the [[1748016127-PSFJ|Left Null-space]] from the [[1748015998-UUDH|Four Subspaces]]
+This is the [[Left Nullspace|Left Null-space]] from the [[The Four Fundamental Subspaces|Four Subspaces]]
  $m -r = 5-3=2$
 
 ##### Interpretation
 
  These are the currents along the edges. What connects\
-$A$ and $A^T$ is [[1748116141-ENQO|Ohms Law]]
+$A$ and $A^T$ is [[Ohms Law|Ohms Law]]
 
 #### Row space of A
 
-The [[1747979257-UGAD|rank]] is 3. The columns are 1,2,4. Correspond to edges, \
-has no loop. A graph without a loop is called a [[1748289676-FUDJ|Tree]]
+The [[Rank|rank]] is 3. The columns are 1,2,4. Correspond to edges, \
+has no loop. A graph without a loop is called a [[Tree|Tree]]
 
 #### $dim N(A^T) = m-r$
 
 $ \# loops = \# edges - (\# nodes -1)$
 $ \# nodes - \# edges + \# loops = 1$
-The above is known as [[1748289883-WYLT|Eulers formula]]
+The above is known as [[Eulers Formula|Eulers formula]]

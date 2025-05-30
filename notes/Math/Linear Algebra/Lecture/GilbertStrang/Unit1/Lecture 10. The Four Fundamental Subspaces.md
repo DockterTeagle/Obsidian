@@ -6,7 +6,7 @@ tags: []
 created: 2025-05-23T10:54
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T11:12
+updated: 2025-05-30T11:27
 ---
 
 # Lecture 10
@@ -20,11 +20,11 @@ updated: 2025-05-23T11:12
 
 The previous matrix, rows were dependent which makes the columns dependent
 
-## [[1748015998-UUDH|The Four Fundamental Subspaces]]
+## [[The Four Fundamental Subspaces|The Four Fundamental Subspaces]]
 
 ## New type of vector space
 
-The [[1747970035-CTCE|Vector Space]] of all $3x3$ matrices is indeed a vector space.
+The [[Vector Spaces|Vector Space]] of all $3x3$ matrices is indeed a vector space.
 
 ### Only Operations that are needed
 

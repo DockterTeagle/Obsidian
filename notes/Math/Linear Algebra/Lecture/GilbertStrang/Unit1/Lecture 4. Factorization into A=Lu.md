@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-22T15:51
-updated: 2025-05-22T22:45
+updated: 2025-05-30T11:23
 ---
 
 # Lecture 4. Factorization into A=LU
@@ -12,7 +12,7 @@ updated: 2025-05-22T22:45
 - Inverse of:
   - AB
   - $A^T$
-- Product of [[1747948172-YPWL|Elimination Matrices]]
+- Product of [[Elimination Matrices|Elimination Matrices]]
 - $A=LU$ (no row exchanges)
 ## $AB^{-1}$
 to get $AB^{-1}$ multiply by in reverse order.
@@ -20,7 +20,7 @@ $$
 ABB^{-1}A^{-1} = I
 $$
 ## Transpose
-the Inverse of a [[1747948464-LDIS|Transpose Matrix]]
+the Inverse of a [[Transpose Matrix|Transpose Matrix]]
 $$
 \begin{align}
 AA^{-1} &= I\\

@@ -11,14 +11,14 @@ topic:
   - cofactors
 type:
   - lecture-notes
-updated: 2025-05-29
+updated: 2025-05-30T11:30
 ---
 
 # Determinant Formulas and Cofactors
 
-## Continuing from [[Lecture18]],[[1748567252-GNCU|Determinants]]
+## Continuing from [[Lecture18]],[[Determinants|Determinants]]
 
-## [[1748582866-NUFI|Cofactors]]
+## [[Cofactors|Cofactors]]
 
 ## Example
 $$

@@ -4,7 +4,7 @@ aliases:
   - Lecture7
 tags: []
 created: 2025-05-23T00:00
-updated: 2025-05-23T01:31
+updated: 2025-05-30T11:26
 ---
 
 # Lecture 7. Solving Ax=0:, Pivot Variables, Special Solutions
@@ -21,7 +21,7 @@ A = \begin{bmatrix}
 0&0&2&4
 \end{bmatrix}
 $$
-Elimination does not change the [[1747973591-KXBY|Nullspace]], but it does change the [[1747973252-MXDM|Column Space]]\
+Elimination does not change the [[Null space|Nullspace]], but it does change the [[Column Space|Column Space]]\
 The '0' in the 22 position says that that column is [[1747945757-MYJK|Linearly Dependent]] on the earlier columns
 $$
 \begin{bmatrix}
@@ -30,8 +30,8 @@ $$
 0&0&0&0\\
 \end{bmatrix}
 $$
-The number of [[Pivot|pivots]] there are is the [[1747979257-UGAD|rank]] of the matrix, in this case there are 2 pivot columns. Other columns are called [[1747979348-IWHJ|Free Columns]], x1, and x3 (The pivots) can be found by [[1747979525-AGKY|Back Substitution]]\
-In this case there are more than 1 lines in the null space. The number of free variables is the number of vectors in the null space. I think this is the [[1747979950-RTRI|Rank Nullity Theorem]]
+The number of [[Pivot|pivots]] there are is the [[Rank|rank]] of the matrix, in this case there are 2 pivot columns. Other columns are called [[Free Variables|Free Columns]], x1, and x3 (The pivots) can be found by [[Back Substitution|Back Substitution]]\
+In this case there are more than 1 lines in the null space. The number of free variables is the number of vectors in the null space. I think this is the [[Rank Nullity Theorem|Rank Nullity Theorem]]
 ## [[Reduced Row Echelon Form|Reduced Row Echelon Form]]
 ### Suppose Already in RREF Form
 What does it look like?
@@ -66,7 +66,7 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 How many pivots?\
-2 so the [[1747979257-UGAD|rank]] is 2
+2 so the [[Rank|rank]] is 2
 ### Nullspace
 There will be 1 solution in the nullspace
 $$

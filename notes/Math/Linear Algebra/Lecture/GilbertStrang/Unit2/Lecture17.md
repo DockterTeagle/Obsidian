@@ -12,7 +12,7 @@ topic:
   - Gram-Schmidt
 type:
   - lecture-notes
-updated: 2025-05-29
+updated: 2025-05-30T11:30
 ---
 
 # Orthogonal Matrices and Gram-Schmidt
@@ -27,13 +27,13 @@ updated: 2025-05-29
 
 $q_{i}^Tq_j = 0$
 
-## How does [[1748552552-ZUXD|Orthonormal matrices]] help
+## How does [[Orthonormal Matrices|Orthonormal matrices]] help
 
 - Q projected is a lot easier to calculate for its column space, as $Q^TQ$ is $I$
 
-## [[1748555506-KNJK|Gram-Schmidt]]
+## [[Gram-Schmidt|Gram-Schmidt]]
 
 
 ### Warning
 
-[[1748555506-KNJK|Gram-Schmidt]] creates a lot of square roots.
+[[Gram-Schmidt|Gram-Schmidt]] creates a lot of square roots.

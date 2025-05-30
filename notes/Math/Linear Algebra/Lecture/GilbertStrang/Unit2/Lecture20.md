@@ -5,6 +5,8 @@ aliases:
 tags: []
 course: linear-algebra
 created: 2025-05-30
+source:
+  - Strang
 status: draft
 topic:
   - Cramer's rule
@@ -14,7 +16,7 @@ topic:
   - cofactors
 type:
   - lecture-notes
-updated: 2025-05-30
+updated: 2025-05-30T11:30
 ---
 
 # Cramer's rule, Inverse Matrix, and Volume
@@ -27,8 +29,8 @@ updated: 2025-05-30
 
 ## Inverse
 
-Know the formula for 2by2 for inverse based on [[1748567252-GNCU|determinants]],\
-and [[1748582866-NUFI|Cofactors]] known as [[1748613152-YRGW|Cramer's Rule]]
+Know the formula for 2by2 for inverse based on [[Determinants|determinants]],\
+and [[Cofactors|Cofactors]] known as [[Cramer's Rule|Cramer's Rule]]
 
 ## Volume of a box
 
@@ -40,7 +42,7 @@ if the determinant is negative then just take the absolute value, the sign shows
 ### Special cases
 
 - [[Identity Matrix]] means it's a cube of volume 1.
-- [[1748552552-ZUXD|Orthonormal matrices]] are cubes with volume 1 because\
+- [[Orthonormal Matrices|Orthonormal matrices]] are cubes with volume 1 because\
 they are normalized. or,
 $$
 Q^TQ=I \rightarrow |Q^T||Q| = I \rightarrow |Q|^2 = I

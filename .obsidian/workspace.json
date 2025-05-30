@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Determinants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Determinants"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links from Determinants"
             }
           },
           {
@@ -197,44 +197,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ae63fb8e2257a27",
+  "active": "814cc7b5da651b35",
   "lastOpenFiles": [
-    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/1747979238-NJPV.md",
-    "TODO.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Gram-Schmidt.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Square Matrix.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Orthonormal Matrices.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Normal Equations.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Projection Matrix.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Linear Regression.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Least Squares Problems.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Orthogonal Complement.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit2/Orthogonal.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Eulers Formula.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Tree.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Ohms Law.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Electric Potential.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Loop.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Incidence Matrix.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Rowspace.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Left Nullspace.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/The Four Fundamental Subspaces.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Standard Basis.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Basis.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Rank Nullity Theorem.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Back Substitution.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Free Variables.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Rank.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Pivot.md",
+    "notes/Math/Linear Algebra/Concepts/Definitions/Unit1/Pivots.md",
+    "notes/Math/Linear Algebra/Lecture/GilbertStrang/Unit2/1748613152-YRGW.md~",
+    "notes/Math/Linear Algebra/Lecture/GilbertStrang/Unit2/Lecture20.md~",
+    "TODO.md~",
     "notes/Math/Linear Algebra/Lecture/GilbertStrang/Unit2/1748567252-GNCU.md~",
     "notes/Math/Linear Algebra/Lecture/GilbertStrang/Unit2/Lecture 14.md~",
     "flakeModules/default.nix~",
     "321238936.nix",
-    "2081420221.md",
-    "2134761164.md",
-    "140465808.md",
-    "notes/Math/Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 13.md",
     "notes/Math/Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 13.md~",
     "2025-05-26.md~",
-    "2025-05-26.md",
     "Math/Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 13.md~",
-    "Math/Linear Algebra/Lecture/GilbertStrang/Unit1/Unit 1. Essentials of vectors and matrices.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 12.md~",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 11. Matrix Spaces; Rank 1; Small World Graphs.md~",
-    "Lecture 11.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 12.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 11. Matrix Spaces; Rank 1; Small World Graphs.md",
-    "3875646572.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/1748015998-UUDH.md~",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 10. The Four Fundamental Subspaces.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 9. Independence,Basis, and Dimension.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Unit 1. Essentials of vectors and matrices.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 8. Solving Ax=b, RREF.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/Lecture 6. Column Space and Nullspace.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/1748011171-YKRV.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/1748009165-LOPD.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/1748016143-QPBY.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/1748016127-PSFJ.md",
-    "Linear Algebra/Lecture/GilbertStrang/Unit1/1748015998-UUDH.md",
-    "Linear Algebra/Definitions/Unit1/Linear Independence.md",
-    "Linear Algebra/Definitions/Definitions.md",
-    "Linear Algebra/Definitions/Unit1/1747970140-OUWU.md",
-    "Linear Algebra/Definitions/Unit1/1747970035-CTCE.md",
     "Untitled.canvas",
     "Linear Algebra/GilbertStrang/1 -2.jpg",
     "Linear Algebra/GilbertStrang/1 -1.jpg"

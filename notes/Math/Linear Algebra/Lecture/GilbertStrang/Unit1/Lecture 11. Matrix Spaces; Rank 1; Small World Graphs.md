@@ -7,7 +7,7 @@ tags:
 created: 2025-05-23T19:41
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T21:23
+updated: 2025-05-30T11:27
 ---
 # Lecture 11
 
@@ -21,18 +21,18 @@ updated: 2025-05-23T21:23
 
 Even though they are matrices, you can still add and multiply them by scalars.
 
-### [[1748009165-LOPD|Basis]] For M = All 3by 3s
+### [[Basis|Basis]] For M = All 3by 3s
 
 Practically the same as $n = 9$ dimensional space.
 
-### [[1747975249-HJWW|Dimension]] Is 9
+### [[Dimension|Dimension]] Is 9
 
 ### Sum of Two Subspaces
 
 Is the sum of any element in both.\
 $dim(S+U) = 9$, got all 3 by 3's= the dimension of intersection and
 
-### Another [[1747970742-TBNT|Subspace]] that Isn't Vectors
+### Another [[Subspaces|Subspace]] that Isn't Vectors
 
 ## Rank One Matrices
 

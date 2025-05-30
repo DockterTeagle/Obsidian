@@ -7,7 +7,7 @@ aliases:
   - pivots
 tags: []
 created: 2025-05-23T00:48
-updated: 2025-05-23T08:29
+updated: 2025-05-30T11:26
 ---
 
 # Pivot

@@ -10,8 +10,8 @@ topic:
   - determinants
 type:
   - lecture-notes
-updated: 2025-05-29
+updated: 2025-05-30T11:30
 ---
 # Properties of Determinants
 
-## [[1748567252-GNCU|Determinants]]
+## [[Determinants|Determinants]]

@@ -4,7 +4,7 @@ aliases: []
 tags:
   - LinearAlgebra
 created: 2025-05-22T19:20
-updated: 2025-05-22T22:46
+updated: 2025-05-30T11:24
 ---
 
 # Lecture 5. Transposes, Permutations, Spaces $R^n$
@@ -16,7 +16,7 @@ Continuing from where [[Lecture 4. Factorization into A=Lu]] left off, a [[Permu
 ## What Happens to A = LU?
 Recall that L is lower triangular, and U is upper, but this doesn't count for row exchanges.
 
-A = LU becomes PA = LU for any [[1747969147-WQZV|Invertible]] matrix. There are $n!$ permutation matrices for any n
+A = LU becomes PA = LU for any [[Invertible|Invertible]] matrix. There are $n!$ permutation matrices for any n
 ## Transposes
 ### Definition
 suppose a matrix:
@@ -27,7 +27,7 @@ A = \begin{bmatrix}
 4&1
 \end{bmatrix}
 $$
-its [[1747948464-LDIS|Transpose Matrix]] is 
+its [[Transpose Matrix|Transpose Matrix]] is 
 $$
 A = \begin{bmatrix}
 1&2&4\\
@@ -39,10 +39,10 @@ $$
 A^T_{ij} = A_{ji}
 $$
 ### Symmetric Matrices
-A [[1747969574-JSZS|Symmetric Matrix]] has 
+A [[Symmetric Matrix|Symmetric Matrix]] has 
 $$
 A^T = A
 $$
 If a matrix is rectangular, it multiplied by its transpose is symmetric.
 
-## Chapter 3: [[1747970035-CTCE|Vector Spaces]], and [[1747970742-TBNT|Subspaces]]
+## Chapter 3: [[Vector Spaces|Vector Spaces]], and [[Subspaces|Subspaces]]

@@ -6,7 +6,7 @@ tags: []
 created: 2025-05-23T01:30
 topic: Linear Algebra
 type: Lecture Notes
-updated: 2025-05-23T11:11
+updated: 2025-05-30T11:26
 ---
 
 # Lecture 8. Solving Ax=b, RREF
@@ -42,7 +42,7 @@ $$
 $$
 ### Conditions on B
 $Ax=b$ solvable when:
-- b is in the [[1747973252-MXDM|Column Space]] 
+- b is in the [[Column Space|Column Space]] 
 - If a combination of A gives the zero row, and the same combination of the rows of b must give 0
 ### The Sequence of Steps to Find the Complete Solution to $Ax=b$
 
@@ -53,10 +53,10 @@ $Ax=b$ solvable when:
   - This works because anything in the null space equals 0
   - cannot multiply $x_p$ by a constant.
 ## Thinking Bigger
-m by n matrix of [[1747979257-UGAD|rank]] r\
+m by n matrix of [[Rank|rank]] r\
 Always $ r\le m$ $r \le n$
 ### Full Column Rank r=n
-no free variables so no [[1747973591-KXBY|Nullspace]]\
+no free variables so no [[Null space|Nullspace]]\
 Solution is therefore just $x_p$ if it exists.\
 It is very possible to have no solution
 ### Full Row Rank r=m

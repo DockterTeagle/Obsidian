@@ -1,0 +1,23 @@
+---
+id: 1748582866-NUFI
+aliases:
+  - Cofactors
+tags: []
+created: 2025-05-30T00:39
+updated: 2025-05-30T11:30
+---
+
+# Cofactors
+
+## Definition
+
+A way to connect the [[Determinants|determinant]] to ones one smaller
+
+$\text{det}=a_{11}(a_{22}a_{33}-a_{23}a_{32})$
+### Putting the '-' Sign in
+
+Cofactor of any $a_{ij}$ is $(-1)^{i+j}\text{det}(n-1)$
+
+## Formula
+
+$\text{det}(A)= a_{11}C_{11}+ \dots a_{1n}C_{1n}$

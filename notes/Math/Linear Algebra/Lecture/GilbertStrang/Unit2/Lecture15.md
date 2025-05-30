@@ -3,6 +3,8 @@ id: Lecture 15
 aliases: []
 tags:
   - LinearAlgebra
+created: 2025-05-27T21:13
+updated: 2025-05-30T11:25
 ---
 
 # Lecture 15. Projections onto Subspaces
@@ -24,9 +26,9 @@ $P = \frac{aa^T}{a^Ta}$
 
 ## Properties of the projection matrix
 
-- [[1747973252-MXDM|Column Space]] is the line through a
+- [[Column Space|Column Space]] is the line through a
 - $R(P)=1$
-- Is a [[1747969574-JSZS|Symmetric Matrix]]
+- Is a [[Symmetric Matrix|Symmetric Matrix]]
   - $P^T=P$
 - $P^2=P$
 
@@ -34,7 +36,7 @@ $P = \frac{aa^T}{a^Ta}$
 
 ### Why project?
 
-Helps solve [[1747974723-YGBI|overspecified systems]] through the equation
+Helps solve [[Over-specified System|overspecified systems]] through the equation
 $$
 A\hat{x} = p
 $$

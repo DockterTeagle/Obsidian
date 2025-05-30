@@ -8,7 +8,7 @@ created: 2025-05-29
 status: draft
 type:
   - lecture-notes
-updated: 2025-05-29
+updated: 2025-05-30T11:29
 ---
 
 # Projection Matrices and Least Squares
@@ -22,7 +22,7 @@ updated: 2025-05-29
 $P=A(A^TA)^{-1}A^T$
 - If b in column space $Pb=b$
 - If b perpendicular to column space (and therefore in the\
-[[1748016127-PSFJ|left null space]]) $Pb=0$
+[[Left Nullspace|left null space]]) $Pb=0$
 - $p+e = b$ where P is the projection part of the vector and\
   e is the error (or $e = (I-P) b$)
 
@@ -50,7 +50,7 @@ $$
 - Minimize the sums of the errors
   -  $||Ax-b||^2 = ||e||^2$
 
-### Solving [[1748542054-YYRA|Least Squares Problems]]
+### Solving [[Least Squares Problems|Least Squares Problems]]
 
 ## Theorem
 
