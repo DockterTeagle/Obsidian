@@ -13,5 +13,8 @@
   "update-time-on-edit",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "templater-obsidian",
+  "calendar",
+  "excalibrain"
 ]

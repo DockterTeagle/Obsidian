@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "vimMode": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "useTab": false,
   "strictLineBreaks": true,
   "showLineNumber": true,
