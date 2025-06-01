@@ -39,7 +39,6 @@
     in
       with pkgs; [
         markdownlint-cli2
-        marksman
         mytex
         tex-fmt
         inputs'.nixd.packages.nixd

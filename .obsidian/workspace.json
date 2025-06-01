@@ -11,14 +11,10 @@
             "id": "77fe62fda005403c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Math/Linear Algebra/Lecture/Linear Algebra Done Right/Chapter1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter1"
+              "title": "New tab"
             }
           }
         ]
