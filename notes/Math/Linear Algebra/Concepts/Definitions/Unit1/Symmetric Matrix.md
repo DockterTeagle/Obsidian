@@ -4,7 +4,7 @@ aliases:
   - Symmetric Matrix
 tags: []
 created: 2025-05-22T22:10
-updated: 2025-05-30T11:24
+updated: 2025-05-30T11:42
 ---
 
 # Symmetric Matrix

@@ -7,7 +7,7 @@ tags: []
 topic: Linear Algebra
 type: defintion
 created: 2025-05-23T09:50
-updated: 2025-05-30T11:27
+updated: 2025-05-30T11:42
 ---
 
 # Basis

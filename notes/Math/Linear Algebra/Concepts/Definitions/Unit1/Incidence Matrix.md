@@ -5,7 +5,7 @@ aliases:
 tags:
   - LinearAlgebra
 created: 2025-05-30T10:58
-updated: 2025-05-30T11:27
+updated: 2025-05-30T11:42
 ---
 
 # Incidence Matrix

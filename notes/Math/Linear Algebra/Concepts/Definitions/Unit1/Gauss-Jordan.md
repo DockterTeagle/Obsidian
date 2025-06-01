@@ -4,7 +4,7 @@ aliases:
   - Gauss-Jordan
 tags: []
 created: 2025-05-22T15:42
-updated: 2025-05-22T15:46
+updated: 2025-05-30T11:42
 ---
 
 # Gauss-Jordan

@@ -37,3 +37,26 @@ $$
 - therefore, has the 0 vector inside it.
 ## Bad Examples
 - The first quadrant in $R^2$ is not closed under multiplication and addition
+
+## Formally
+
+### Rules
+
+The following properties must hold:
+
+- **commutativity** 
+    $ u+v = v+u \forall u,v \in V$
+- **associativity** 
+    $(u+v) +w = u+ (v+w)$ and $(ab)v = a(bv)$ $\forall u,v,w \in V$\
+    and $\forall a,b \in \mathbb{F}$
+- **additive identity** $\exists$ an element $0 \in V $ such that\
+$v+0 = v$ $ \forall v \in V$
+- **multiplicative identity** $\forall v \in V( 1v = v)$
+- **distributive properties**
+     $$
+     \begin{aligned}
+     &\forall a,b \in F, \ \forall u,v\in V, \quad \\
+     & a(u+v) = au +av, \quad \text{(scalar distributivity)}\\
+     & (a+b)v = av+bv\quad \text{(vector distributivity)}
+     \end{aligned}
+     $$

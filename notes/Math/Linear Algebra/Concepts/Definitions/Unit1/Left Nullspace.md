@@ -7,7 +7,7 @@ aliases:
   - left null space
 tags: []
 created: 2025-05-23T11:04
-updated: 2025-05-30T11:27
+updated: 2025-05-30T11:42
 ---
 
 # Left Nullspace

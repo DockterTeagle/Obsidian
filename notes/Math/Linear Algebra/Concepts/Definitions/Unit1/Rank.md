@@ -4,7 +4,7 @@ aliases:
   - rank
 tags: []
 created: 2025-05-23T00:47
-updated: 2025-05-30T11:26
+updated: 2025-05-30T11:42
 ---
 
 # Rank

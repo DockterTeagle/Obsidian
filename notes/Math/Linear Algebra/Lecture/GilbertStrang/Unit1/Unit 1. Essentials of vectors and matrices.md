@@ -2,10 +2,11 @@
 id: Unit 1. Essentials of vectors and matrices
 aliases:
   - Unit1
+  - Unit 1. Essentials of Vectors and Matrices
 tags:
   - LinearAlgebra
 created: 2025-05-20T16:43
-updated: 2025-05-26T15:10
+updated: 2025-05-30T11:44
 ---
 
 # Unit 1. Essentials of Vectors and Matrices
@@ -23,6 +24,3 @@ updated: 2025-05-26T15:10
 [[Lecture 11. Matrix Spaces; Rank 1; Small World Graphs|Lecture 11]]\
 [[Lecture 12]]
 
-## List
-
-- [!] [priority:: high] Sort out all the definitions and rename them.

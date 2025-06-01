@@ -6,7 +6,7 @@ aliases:
 tags: []
 created: 2025-05-22T23:29
 topic: Linear Algebra
-updated: 2025-05-30T11:25
+updated: 2025-05-30T11:42
 ---
 
 # Span

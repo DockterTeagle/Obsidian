@@ -4,7 +4,7 @@ aliases:
   - Elimination Matrices
 tags: []
 created: 2025-05-22T17:35
-updated: 2025-05-30T11:23
+updated: 2025-05-30T11:42
 ---
 
 # Elimination Matrices

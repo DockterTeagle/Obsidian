@@ -4,7 +4,7 @@ aliases:
   - Dimension
 tags: []
 created: 2025-05-22T23:41
-updated: 2025-05-30T11:27
+updated: 2025-05-30T11:42
 ---
 
 # Dimension
